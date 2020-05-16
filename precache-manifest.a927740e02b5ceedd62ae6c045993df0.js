@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "300585f44531012bcdcf99e5a53060a0",
+    "revision": "edba85a96e1c98a68e68385a1dda83d1",
     "url": "/Go-Wild-Website/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Go-Wild-Website/static/css/2.a227a933.chunk.css"
   },
   {
-    "revision": "c4f3c3ea7bc518441f16",
+    "revision": "7038a6b9f79ae395da80",
     "url": "/Go-Wild-Website/static/css/main.74992f81.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Go-Wild-Website/static/js/2.d5bd0827.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c4f3c3ea7bc518441f16",
-    "url": "/Go-Wild-Website/static/js/main.612e9b69.chunk.js"
+    "revision": "7038a6b9f79ae395da80",
+    "url": "/Go-Wild-Website/static/js/main.a13b2f2d.chunk.js"
   },
   {
     "revision": "ffd99847dcb317e2c735",
