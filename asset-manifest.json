@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Go-Wild-Website/static/css/main.74992f81.chunk.css",
-    "main.js": "/Go-Wild-Website/static/js/main.8e004843.chunk.js",
-    "main.js.map": "/Go-Wild-Website/static/js/main.8e004843.chunk.js.map",
+    "main.js": "/Go-Wild-Website/static/js/main.612e9b69.chunk.js",
+    "main.js.map": "/Go-Wild-Website/static/js/main.612e9b69.chunk.js.map",
     "runtime-main.js": "/Go-Wild-Website/static/js/runtime-main.0ba4100b.js",
     "runtime-main.js.map": "/Go-Wild-Website/static/js/runtime-main.0ba4100b.js.map",
     "static/css/2.a227a933.chunk.css": "/Go-Wild-Website/static/css/2.a227a933.chunk.css",
     "static/js/2.d5bd0827.chunk.js": "/Go-Wild-Website/static/js/2.d5bd0827.chunk.js",
     "static/js/2.d5bd0827.chunk.js.map": "/Go-Wild-Website/static/js/2.d5bd0827.chunk.js.map",
     "index.html": "/Go-Wild-Website/index.html",
-    "precache-manifest.9c52ba7122325646240f83da661a8c00.js": "/Go-Wild-Website/precache-manifest.9c52ba7122325646240f83da661a8c00.js",
+    "precache-manifest.840f21246f0c61842e6ddcb82782e10c.js": "/Go-Wild-Website/precache-manifest.840f21246f0c61842e6ddcb82782e10c.js",
     "service-worker.js": "/Go-Wild-Website/service-worker.js",
     "static/css/2.a227a933.chunk.css.map": "/Go-Wild-Website/static/css/2.a227a933.chunk.css.map",
     "static/css/main.74992f81.chunk.css.map": "/Go-Wild-Website/static/css/main.74992f81.chunk.css.map",
@@ -37,6 +37,6 @@
     "static/css/2.a227a933.chunk.css",
     "static/js/2.d5bd0827.chunk.js",
     "static/css/main.74992f81.chunk.css",
-    "static/js/main.8e004843.chunk.js"
+    "static/js/main.612e9b69.chunk.js"
   ]
 }

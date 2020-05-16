@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Go-Wild-Website/precache-manifest.9c52ba7122325646240f83da661a8c00.js"
+  "/Go-Wild-Website/precache-manifest.840f21246f0c61842e6ddcb82782e10c.js"
 );
 
 self.addEventListener('message', (event) => {
