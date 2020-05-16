@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/Go-Wild-Website/static/css/main.74992f81.chunk.css",
+    "main.js": "/Go-Wild-Website/static/js/main.8e004843.chunk.js",
+    "main.js.map": "/Go-Wild-Website/static/js/main.8e004843.chunk.js.map",
+    "runtime-main.js": "/Go-Wild-Website/static/js/runtime-main.0ba4100b.js",
+    "runtime-main.js.map": "/Go-Wild-Website/static/js/runtime-main.0ba4100b.js.map",
+    "static/css/2.a227a933.chunk.css": "/Go-Wild-Website/static/css/2.a227a933.chunk.css",
+    "static/js/2.d5bd0827.chunk.js": "/Go-Wild-Website/static/js/2.d5bd0827.chunk.js",
+    "static/js/2.d5bd0827.chunk.js.map": "/Go-Wild-Website/static/js/2.d5bd0827.chunk.js.map",
+    "index.html": "/Go-Wild-Website/index.html",
+    "precache-manifest.9c52ba7122325646240f83da661a8c00.js": "/Go-Wild-Website/precache-manifest.9c52ba7122325646240f83da661a8c00.js",
+    "service-worker.js": "/Go-Wild-Website/service-worker.js",
+    "static/css/2.a227a933.chunk.css.map": "/Go-Wild-Website/static/css/2.a227a933.chunk.css.map",
+    "static/css/main.74992f81.chunk.css.map": "/Go-Wild-Website/static/css/main.74992f81.chunk.css.map",
+    "static/js/2.d5bd0827.chunk.js.LICENSE.txt": "/Go-Wild-Website/static/js/2.d5bd0827.chunk.js.LICENSE.txt",
+    "static/media/training.css": "/Go-Wild-Website/static/media/bac.735b7d30.png",
+    "static/media/index.css": "/Go-Wild-Website/static/media/bgMobile.1cc2b05e.png",
+    "static/media/bigman.png": "/Go-Wild-Website/static/media/bigman.616041ec.png",
+    "static/media/blackgirl.png": "/Go-Wild-Website/static/media/blackgirl.48e7618a.png",
+    "static/media/car.png": "/Go-Wild-Website/static/media/car.de1f7f78.png",
+    "static/media/climb.png": "/Go-Wild-Website/static/media/climb.9b15d705.png",
+    "static/media/fish.png": "/Go-Wild-Website/static/media/fish.349fe7af.png",
+    "static/media/gliding.png": "/Go-Wild-Website/static/media/gliding.687e3e84.png",
+    "static/media/Nav.css": "/Go-Wild-Website/static/media/gwLogo.b6eeb633.png",
+    "static/media/hiking.png": "/Go-Wild-Website/static/media/hiking.7c1ad09a.png",
+    "static/media/hunter.png": "/Go-Wild-Website/static/media/hunter.b92304e1.png",
+    "static/media/lower.png": "/Go-Wild-Website/static/media/lower.2f29b123.png",
+    "static/media/map.png": "/Go-Wild-Website/static/media/map.40445cf1.png",
+    "static/media/mixedBoy.png": "/Go-Wild-Website/static/media/mixedBoy.8a2d9855.png",
+    "static/media/swim.png": "/Go-Wild-Website/static/media/swim.8abd7a74.png",
+    "static/media/vid.png": "/Go-Wild-Website/static/media/vid.2127cd34.png",
+    "static/media/whiteGirl.png": "/Go-Wild-Website/static/media/whiteGirl.bf80e534.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0ba4100b.js",
+    "static/css/2.a227a933.chunk.css",
+    "static/js/2.d5bd0827.chunk.js",
+    "static/css/main.74992f81.chunk.css",
+    "static/js/main.8e004843.chunk.js"
+  ]
+}
