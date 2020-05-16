@@ -1,2 +1,2 @@
 # Go-Wild-Website
-The Landing page of the Go-Wild website, built with reactjs.
+The Landing page of the GO-WILD WEBSITE, built with reactjs.
