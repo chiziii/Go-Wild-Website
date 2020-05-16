@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Go-Wild-Website/static/css/main.74992f81.chunk.css",
+    "main.css": "/Go-Wild-Website/static/css/main.a86b0d4c.chunk.css",
     "main.js": "/Go-Wild-Website/static/js/main.a13b2f2d.chunk.js",
     "main.js.map": "/Go-Wild-Website/static/js/main.a13b2f2d.chunk.js.map",
     "runtime-main.js": "/Go-Wild-Website/static/js/runtime-main.0ba4100b.js",
@@ -9,10 +9,10 @@
     "static/js/2.d5bd0827.chunk.js": "/Go-Wild-Website/static/js/2.d5bd0827.chunk.js",
     "static/js/2.d5bd0827.chunk.js.map": "/Go-Wild-Website/static/js/2.d5bd0827.chunk.js.map",
     "index.html": "/Go-Wild-Website/index.html",
-    "precache-manifest.a927740e02b5ceedd62ae6c045993df0.js": "/Go-Wild-Website/precache-manifest.a927740e02b5ceedd62ae6c045993df0.js",
+    "precache-manifest.20ec752889ba3732cad510487252fd08.js": "/Go-Wild-Website/precache-manifest.20ec752889ba3732cad510487252fd08.js",
     "service-worker.js": "/Go-Wild-Website/service-worker.js",
     "static/css/2.a227a933.chunk.css.map": "/Go-Wild-Website/static/css/2.a227a933.chunk.css.map",
-    "static/css/main.74992f81.chunk.css.map": "/Go-Wild-Website/static/css/main.74992f81.chunk.css.map",
+    "static/css/main.a86b0d4c.chunk.css.map": "/Go-Wild-Website/static/css/main.a86b0d4c.chunk.css.map",
     "static/js/2.d5bd0827.chunk.js.LICENSE.txt": "/Go-Wild-Website/static/js/2.d5bd0827.chunk.js.LICENSE.txt",
     "static/media/training.css": "/Go-Wild-Website/static/media/bac.735b7d30.png",
     "static/media/index.css": "/Go-Wild-Website/static/media/bgMobile.1cc2b05e.png",
@@ -36,7 +36,7 @@
     "static/js/runtime-main.0ba4100b.js",
     "static/css/2.a227a933.chunk.css",
     "static/js/2.d5bd0827.chunk.js",
-    "static/css/main.74992f81.chunk.css",
+    "static/css/main.a86b0d4c.chunk.css",
     "static/js/main.a13b2f2d.chunk.js"
   ]
 }
