@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6c5a5f8ebfa1fe5cd38b65f091223751",
+    "revision": "af79dc2ce6a5cfa9b3f3b831eb12fd58",
     "url": "/Go-Wild-Website/index.html"
   },
   {
-    "revision": "b424413992f33a7103dc",
+    "revision": "cc08acb93f1db308f86f",
     "url": "/Go-Wild-Website/static/css/2.a227a933.chunk.css"
   },
   {
-    "revision": "af6afdbffe62774e2dd8",
-    "url": "/Go-Wild-Website/static/css/main.a86b0d4c.chunk.css"
+    "revision": "2298187392bf704ac923",
+    "url": "/Go-Wild-Website/static/css/main.3e9dfd57.chunk.css"
   },
   {
-    "revision": "b424413992f33a7103dc",
-    "url": "/Go-Wild-Website/static/js/2.d5bd0827.chunk.js"
+    "revision": "cc08acb93f1db308f86f",
+    "url": "/Go-Wild-Website/static/js/2.c933332b.chunk.js"
   },
   {
     "revision": "01b5bddedc3c17204dc2395332cf6706",
-    "url": "/Go-Wild-Website/static/js/2.d5bd0827.chunk.js.LICENSE.txt"
+    "url": "/Go-Wild-Website/static/js/2.c933332b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "af6afdbffe62774e2dd8",
-    "url": "/Go-Wild-Website/static/js/main.a13b2f2d.chunk.js"
+    "revision": "2298187392bf704ac923",
+    "url": "/Go-Wild-Website/static/js/main.ed0f8791.chunk.js"
   },
   {
     "revision": "ffd99847dcb317e2c735",
