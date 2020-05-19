@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "af79dc2ce6a5cfa9b3f3b831eb12fd58",
+    "revision": "bb47de0108fdb5f44c47163314d22886",
     "url": "/Go-Wild-Website/index.html"
   },
   {
-    "revision": "cc08acb93f1db308f86f",
+    "revision": "a6e1bb83343fcd11fddf",
     "url": "/Go-Wild-Website/static/css/2.a227a933.chunk.css"
   },
   {
-    "revision": "2298187392bf704ac923",
-    "url": "/Go-Wild-Website/static/css/main.3e9dfd57.chunk.css"
+    "revision": "8e0d3e8751be483612fa",
+    "url": "/Go-Wild-Website/static/css/main.087f768c.chunk.css"
   },
   {
-    "revision": "cc08acb93f1db308f86f",
-    "url": "/Go-Wild-Website/static/js/2.c933332b.chunk.js"
+    "revision": "a6e1bb83343fcd11fddf",
+    "url": "/Go-Wild-Website/static/js/2.e72d21af.chunk.js"
   },
   {
     "revision": "01b5bddedc3c17204dc2395332cf6706",
-    "url": "/Go-Wild-Website/static/js/2.c933332b.chunk.js.LICENSE.txt"
+    "url": "/Go-Wild-Website/static/js/2.e72d21af.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2298187392bf704ac923",
-    "url": "/Go-Wild-Website/static/js/main.ed0f8791.chunk.js"
+    "revision": "8e0d3e8751be483612fa",
+    "url": "/Go-Wild-Website/static/js/main.1752e792.chunk.js"
   },
   {
     "revision": "ffd99847dcb317e2c735",
@@ -40,24 +40,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Go-Wild-Website/static/media/bgMobile.1cc2b05e.png"
   },
   {
-    "revision": "616041ecb277879e8563dfb5dec393de",
-    "url": "/Go-Wild-Website/static/media/bigman.616041ec.png"
-  },
-  {
     "revision": "48e7618a9dff68e833fc8fe161d85be4",
     "url": "/Go-Wild-Website/static/media/blackgirl.48e7618a.png"
-  },
-  {
-    "revision": "de1f7f781ed336f20ceff09dea26de39",
-    "url": "/Go-Wild-Website/static/media/car.de1f7f78.png"
-  },
-  {
-    "revision": "9b15d70582b1d84dc18ab3613b82b502",
-    "url": "/Go-Wild-Website/static/media/climb.9b15d705.png"
-  },
-  {
-    "revision": "349fe7aff8f5011a080cfe1363b35c9e",
-    "url": "/Go-Wild-Website/static/media/fish.349fe7af.png"
   },
   {
     "revision": "687e3e842298ecd6247dd32b50d01983",
@@ -86,10 +70,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "8a2d9855faa69c2e9d4333287742f11d",
     "url": "/Go-Wild-Website/static/media/mixedBoy.8a2d9855.png"
-  },
-  {
-    "revision": "8abd7a7446613a4fdb7dfddde31e7109",
-    "url": "/Go-Wild-Website/static/media/swim.8abd7a74.png"
   },
   {
     "revision": "2127cd34d9adaa4918e626b2ffffbe35",
